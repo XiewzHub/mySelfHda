@@ -2,8 +2,8 @@
 
 > 要修改dsdt需要知道的网址
 >
-> - https://bitbucket.org/RehabMan/，资源丰富，长期维护
-> - https://www.tonymacx86.com，集合大量关于黑苹果安装以及问题的解决方案，可能需要梯子
+> - [https://bitbucket.org/RehabMan/，资源丰富，长期维护](https://bitbucket.org/RehabMan/)
+> - [https://www.tonymacx86.com，集合大量关于黑苹果安装以及问题的解决方案，可能需要梯子](https://www.tonymacx86.com)
 
 本文参考的文章
 
