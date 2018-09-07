@@ -8,7 +8,7 @@
 本文参考的文章
 
 - [对笔记本的 DSDT／SSDT 打补丁](https://blog.csdn.net/wr132/article/details/54798754)
-- [各种教程，很强大](enjoycc.f3322.net:8558)
+- [各种教程，很强大](http://enjoycc.f3322.net:8558/黑苹果安装教程/)
 
 ## 1 提取系统的ACPI的表
 
